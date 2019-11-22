@@ -815,3 +815,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.22-00.30.33:654][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
 [2019.11.22-00.30.33:654][  0]LogLoad: (Engine Initialization) Total time: 20.86 seconds
 [2019.11.22-00.30.33:654][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.22-00.30.33:865][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.22-00.30.35:327][115]LogAssetRegistry: Asset discovery search completed in 15.9705 seconds
+[2019.11.22-00.30.35:333][115]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000009 seconds (found 0 objects)
+[2019.11.22-00.30.35:333][115]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000092 seconds (updated 0 objects)
